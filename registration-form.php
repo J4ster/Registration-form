@@ -87,7 +87,7 @@ password" name="password"
 </div>
 <!--//Confirm Password//-->
 <div class="form-group">
-<label for="pwd">Confirm Password:</label>
+<label for="pwd">Confirm Passworddddddd:</label>
 <input type="password" class="form-control" placeholder="Enter 
 Confirm password" name="cpassword">
 <p class="err-msg">
