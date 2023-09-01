@@ -1,0 +1,2 @@
+This system is built using PHP for server-side scripting, PHPMyAdmin for database management, and HTML/CSS for the user interface. 
+It consists of three main files: Database.php, registration-script.php, and registration-form.php.
